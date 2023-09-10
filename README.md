@@ -7,10 +7,21 @@ I have around 10 years of IT experience in architecture and Managing Enterprise 
 **TECHNICAL SKILLS**
 
 Applications: Oracle ERP/OTM/SOA/BPEL/Tomcat/WebLogic.
+
+
 Databases: Oracle, Mongo(No SQL), AWS RDS, MySQL, PostgreSQL
+
+
 OS: Red Hat Linux, Ubuntu, Windows.
+
+
 Cloud: AWS/Azure
-Kuberenetes Ecosystem
+
+
+Kuberenetes Ecosystem: Docker/Kubernetes/ AWS EKS/Azure AKS
+
+
+
 
 **TECHNICAL CONTRIBUTION**
 
