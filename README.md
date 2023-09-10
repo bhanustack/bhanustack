@@ -1,16 +1,14 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**bhanustack/bhanustack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Sreekanth Kurapati ; You can call me - Sreekanth. .
 
-Here are some ideas to get you started:
+Having 13 years of professional experience in IT with Masters education (MCA).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Working as Technical Architect / Transformation Manager - Cloud & DevOps. Helping customers with Implementation & Cloud Migration - Fintech.
+
+Having domain experience in Financial Services, automotive electronics, Healthcare, Industrial, Public Sector engagements & Stock Exchange.
+
+I always love to learn - Unlearn - Relearn, Motivated to Share knowledge with peers, community and learn from them.
+
+I have 10+ Technical Certification in AWS, Azure, CKA/CKAD, Terraform Certified
+
