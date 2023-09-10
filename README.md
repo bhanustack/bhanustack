@@ -1,14 +1,12 @@
 Hi there 👋
 
-I'm Sreekanth Kurapati ; You can call me - Sreekanth. .
+Bhanu Prasad  here you can call Bhanu
 
-Having 13 years of professional experience in IT with Masters education (MCA).
+I have around 10 years of IT experience in architecture and Managing Enterprise Applications/Databases/OS/AWS Cloud/DevSecOps/ Cloud Security ecosystem.
 
-Working as Technical Architect / Transformation Manager - Cloud & DevOps. Helping customers with Implementation & Cloud Migration - Fintech.
+Applications: Oracle ERP/OTM/SOA/BPEL/Tomcat/WebLogic.
+Databases: Oracle, Mongo(No SQL), AWS RDS, MySQL, PostgreSQL
+OS: Red Hat Linux, Ubuntu, Windows.
+Cloud: AWS/Azure
 
-Having domain experience in Financial Services, automotive electronics, Healthcare, Industrial, Public Sector engagements & Stock Exchange.
-
-I always love to learn - Unlearn - Relearn, Motivated to Share knowledge with peers, community and learn from them.
-
-I have 10+ Technical Certification in AWS, Azure, CKA/CKAD, Terraform Certified
 
